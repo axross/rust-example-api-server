@@ -1,0 +1,31 @@
+name: Build
+on:
+  push:
+    branches:
+      - main
+jobs:
+  deploy:
+    name: Submit a New Build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@master
+        with:
+          ref: ${{steps.find-latest-release.outputs.tag-name}}
+      - name: Setup Google Cloud CLI Toolchain
+        uses: GoogleCloudPlatform/github-actions/setup-gcloud@master
+        with:
+          project_id: ${{ secrets.GCP_PROJECT_ID }}
+          service_account_key: ${{ secrets.GCP_SA_KEY }}
+          export_default_credentials: true
+      - name: Setup Rust Toolchain
+        uses: actions-rs/toolchain@v1
+        with:
+          toolchain: nightly
+      - name: Check
+        uses: actions-rs/cargo@v1
+        with:
+          toolchain: nightly
+          command: check
+      - name: Submit Container Image
+        run: "gcloud builds submit --tag gcr.io/${{ secrets.GCP_PROJECT_ID }}/api:${{ github.sha }}"
