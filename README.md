@@ -1,1 +1,1 @@
-# rust-example-api-server
+# Rust Example API Server

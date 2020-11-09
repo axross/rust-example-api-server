@@ -1,0 +1,419 @@
+{
+  "agate": { "followers": ["honor", "dove", "kole", "mabon"] },
+  "aldon": {
+    "followers": [
+      "chadrick",
+      "royal",
+      "claudia",
+      "dexter",
+      "christine",
+      "banagher",
+      "jonah"
+    ]
+  },
+  "alexa": { "followers": ["hayley", "alton", "ally"] },
+  "ally": { "followers": ["kole", "kipp", "elyse", "phil", "hayley", "keene"] },
+  "alton": { "followers": ["josceline", "elyse", "libbie", "paisley"] },
+  "annalee": {
+    "followers": [
+      "paisley",
+      "darlena",
+      "agate",
+      "royal",
+      "uiseann",
+      "heddwyn",
+      "farrel",
+      "hayley"
+    ]
+  },
+  "aodhan": { "followers": ["sewell", "heddwyn", "dericka", "wise"] },
+  "athol": {
+    "followers": [
+      "brendalynn",
+      "malone",
+      "honor",
+      "dericka",
+      "reynald",
+      "nola",
+      "farrel",
+      "aodhan"
+    ]
+  },
+  "ava": { "followers": ["rowen", "hale", "wren", "honor", "sammy"] },
+  "banagher": { "followers": ["zephan"] },
+  "beyonce": { "followers": ["isabella", "dexter", "phil"] },
+  "brendalynn": {
+    "followers": [
+      "channing",
+      "kathryn",
+      "wren",
+      "venetia",
+      "driscol",
+      "reynald",
+      "wynter",
+      "caden",
+      "weslee"
+    ]
+  },
+  "britt": { "followers": ["athol", "dove", "guinevere", "maddy", "gareth"] },
+  "bryna": { "followers": ["reynald", "nola", "fion"] },
+  "caden": { "followers": ["raphael", "reynald"] },
+  "caleb": { "followers": ["kylene", "nola", "eddy", "banagher"] },
+  "chadrick": {
+    "followers": ["driscol", "kipp", "hayley", "sammy", "kylene", "tremayne"]
+  },
+  "channing": {
+    "followers": ["malone", "glennis", "elsa", "dorien", "fion", "uiseann"]
+  },
+  "chastity": { "followers": ["william", "raphael"] },
+  "cher": { "followers": ["driscol", "zephan", "farrel", "hayley"] },
+  "christine": {
+    "followers": ["lorren", "maddy", "ally", "eden", "guinevere", "caden"]
+  },
+  "claudia": { "followers": ["hale", "kristin", "heddwyn", "caden"] },
+  "colene": { "followers": ["nola"] },
+  "dacre": { "followers": ["athol", "josceline", "ava", "tydeus"] },
+  "darlena": {
+    "followers": [
+      "ginnie",
+      "raphael",
+      "malone",
+      "gareth",
+      "chastity",
+      "gala",
+      "heddwyn",
+      "keene"
+    ]
+  },
+  "dericka": { "followers": ["kylene", "aodhan"] },
+  "desirae": { "followers": ["wynter", "cher", "phil"] },
+  "dexter": { "followers": ["isabella", "sewell"] },
+  "doe": {
+    "followers": [
+      "ava",
+      "eddy",
+      "agate",
+      "heddwyn",
+      "keene",
+      "reynald",
+      "lenae",
+      "caleb"
+    ]
+  },
+  "dorien": {
+    "followers": [
+      "caleb",
+      "wynter",
+      "tydeus",
+      "heddwyn",
+      "eddy",
+      "yardley",
+      "elsa",
+      "royal"
+    ]
+  },
+  "dove": { "followers": ["desirae", "farrel", "claudia", "honor", "annalee"] },
+  "driscol": { "followers": ["yardley", "heddwyn", "sewell", "haley"] },
+  "dunley": { "followers": ["kole", "keene", "fion"] },
+  "eddy": {
+    "followers": [
+      "kylene",
+      "reynald",
+      "beyonce",
+      "aodhan",
+      "hale",
+      "wise",
+      "kipp",
+      "alexa",
+      "sewell"
+    ]
+  },
+  "eden": { "followers": [] },
+  "elsa": { "followers": ["caleb", "hayley"] },
+  "elyse": { "followers": ["mabon", "weslee", "cher"] },
+  "farrel": { "followers": ["jonah", "josceline", "raphael", "bryna"] },
+  "finn": {
+    "followers": [
+      "hugh",
+      "uiseann",
+      "colene",
+      "dericka",
+      "tydeus",
+      "dexter",
+      "newt",
+      "malone"
+    ]
+  },
+  "fion": { "followers": ["caden"] },
+  "gala": { "followers": ["garrick", "nola", "desirae"] },
+  "gareth": { "followers": ["dacre", "hayley", "wolf", "lorren", "gala"] },
+  "garrick": {
+    "followers": [
+      "josceline",
+      "beyonce",
+      "dunley",
+      "wolf",
+      "fion",
+      "dove",
+      "newt",
+      "desirae",
+      "libbie"
+    ]
+  },
+  "ginnie": { "followers": ["kole", "alexa", "driscol"] },
+  "glennis": { "followers": [] },
+  "guinevere": {
+    "followers": ["jonah", "banagher", "kathryn", "libbie", "christine"]
+  },
+  "hale": {
+    "followers": ["hugh", "ava", "garrick", "sammy", "peace", "athol"]
+  },
+  "haley": {
+    "followers": ["kylene", "caden", "agate", "kipp", "toby", "dericka"]
+  },
+  "hayley": {
+    "followers": [
+      "eden",
+      "mabon",
+      "heddwyn",
+      "banagher",
+      "yardley",
+      "aodhan",
+      "newt",
+      "kolby",
+      "toby"
+    ]
+  },
+  "heddwyn": {
+    "followers": [
+      "kathryn",
+      "finn",
+      "kristin",
+      "fion",
+      "colene",
+      "britt",
+      "farrel",
+      "shae"
+    ]
+  },
+  "honor": { "followers": [] },
+  "hugh": {
+    "followers": [
+      "isabella",
+      "lenae",
+      "annalee",
+      "josceline",
+      "darlena",
+      "shae"
+    ]
+  },
+  "irving": {
+    "followers": [
+      "caleb",
+      "channing",
+      "lenae",
+      "christine",
+      "brendalynn",
+      "glennis",
+      "hale"
+    ]
+  },
+  "isabella": { "followers": [] },
+  "jonah": {
+    "followers": [
+      "kathryn",
+      "zephan",
+      "alton",
+      "chadrick",
+      "agate",
+      "weslee",
+      "maddy"
+    ]
+  },
+  "josceline": { "followers": ["bryna"] },
+  "kathryn": { "followers": ["caden", "kolby", "haley"] },
+  "keene": {
+    "followers": [
+      "agate",
+      "yardley",
+      "annalee",
+      "dacre",
+      "gareth",
+      "britt",
+      "bryna",
+      "rowen",
+      "wolf"
+    ]
+  },
+  "kent": { "followers": ["hugh", "ginnie"] },
+  "kipp": {
+    "followers": [
+      "malone",
+      "tremayne",
+      "athol",
+      "kole",
+      "wolf",
+      "honor",
+      "aldon",
+      "elyse"
+    ]
+  },
+  "kolby": { "followers": ["peony", "kristin", "channing", "finn", "agate"] },
+  "kole": { "followers": [] },
+  "kristin": {
+    "followers": ["weslee", "aodhan", "william", "guinevere", "haley", "peony"]
+  },
+  "kylene": { "followers": ["honor", "elyse", "shevaun", "thane", "beyonce"] },
+  "lenae": { "followers": ["driscol", "irving", "kipp", "josceline"] },
+  "libbie": { "followers": ["raphael", "mabon", "nola", "wolf"] },
+  "lorren": { "followers": ["guinevere", "nola"] },
+  "mabon": { "followers": ["alton", "tremayne", "brendalynn", "libbie"] },
+  "maddy": { "followers": [] },
+  "malone": { "followers": ["wadell", "gala", "sammy"] },
+  "newt": { "followers": ["haley", "shae"] },
+  "nola": { "followers": ["irving", "ally", "britt", "reynald"] },
+  "paisley": { "followers": ["annalee", "caleb", "haley"] },
+  "peace": {
+    "followers": [
+      "keene",
+      "honor",
+      "fion",
+      "sewell",
+      "tremayne",
+      "britt",
+      "sammy"
+    ]
+  },
+  "peony": { "followers": [] },
+  "phil": { "followers": ["kipp", "wynter", "darlena", "tydeus"] },
+  "raphael": { "followers": ["shevaun"] },
+  "reynald": {
+    "followers": [
+      "chastity",
+      "vicki",
+      "farrel",
+      "chadrick",
+      "nola",
+      "caden",
+      "thane"
+    ]
+  },
+  "rowen": { "followers": [] },
+  "royal": { "followers": ["channing", "reynald", "rowen", "lorren"] },
+  "sammy": {
+    "followers": ["uiseann", "dericka", "libbie", "britt", "channing", "lorren"]
+  },
+  "sewell": {
+    "followers": [
+      "honor",
+      "christine",
+      "william",
+      "peace",
+      "colene",
+      "finn",
+      "chadrick",
+      "bryna",
+      "kolby"
+    ]
+  },
+  "shae": {
+    "followers": [
+      "garrick",
+      "weslee",
+      "wadell",
+      "malone",
+      "isabella",
+      "libbie",
+      "caden",
+      "dunley",
+      "shevaun"
+    ]
+  },
+  "shevaun": {
+    "followers": [
+      "cher",
+      "kylene",
+      "jonah",
+      "sewell",
+      "haley",
+      "hale",
+      "elyse",
+      "dunley"
+    ]
+  },
+  "thane": {
+    "followers": ["sewell", "peace", "banagher", "josceline", "hugh"]
+  },
+  "toby": { "followers": ["banagher", "lorren", "dove", "haley", "finn"] },
+  "tremayne": {
+    "followers": [
+      "royal",
+      "honor",
+      "dericka",
+      "kathryn",
+      "weslee",
+      "hale",
+      "fion",
+      "shae",
+      "vicki"
+    ]
+  },
+  "tydeus": { "followers": ["dunley", "annalee", "kathryn"] },
+  "uiseann": {
+    "followers": [
+      "channing",
+      "farrel",
+      "ava",
+      "isabella",
+      "kipp",
+      "finn",
+      "rowen"
+    ]
+  },
+  "venetia": { "followers": ["brendalynn", "britt", "chastity", "irving"] },
+  "vicki": { "followers": ["sammy", "jonah", "finn"] },
+  "wadell": { "followers": ["irving"] },
+  "weslee": {
+    "followers": [
+      "kylene",
+      "hale",
+      "shae",
+      "finn",
+      "desirae",
+      "britt",
+      "libbie"
+    ]
+  },
+  "william": {
+    "followers": ["tremayne", "ginnie", "aodhan", "vicki", "maddy", "aldon"]
+  },
+  "wise": {
+    "followers": [
+      "brendalynn",
+      "nola",
+      "peony",
+      "banagher",
+      "alexa",
+      "gala",
+      "venetia",
+      "britt",
+      "wolf"
+    ]
+  },
+  "wolf": {
+    "followers": [
+      "claudia",
+      "mabon",
+      "britt",
+      "venetia",
+      "banagher",
+      "caden",
+      "tydeus",
+      "channing"
+    ]
+  },
+  "wren": { "followers": ["wolf"] },
+  "wynter": { "followers": ["venetia", "banagher", "phil"] },
+  "yardley": { "followers": ["tydeus", "aodhan"] },
+  "zephan": { "followers": ["aodhan", "lorren", "venetia", "britt"] }
+}
